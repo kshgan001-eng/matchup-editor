@@ -1,6 +1,6 @@
 # 2026 월드파이널 승부예측
 
-[대진표 열기](https://htmlpreview.github.io/?https://github.com/kshgan001-eng/matchup-editor/blob/main/index.html)
+[대진표 열기](https://kshgan001-eng.github.io/matchup-editor/)
 
 경기를 눌러 세트 점수를 고르면 승자와 패자가 다음 칸에 자동으로 배치됩니다. 입력한 점수는 브라우저에 저장됩니다. 링크 공유, PNG 저장, 초기화는 대진표 아래에서 할 수 있습니다.
 
