@@ -1,4 +1,4 @@
-# 2026 월드파이널 승부예측
+# 2026 월드파이널
 
 [대진표 열기](https://kshgan001-eng.github.io/matchup-editor/)
 
